@@ -1,0 +1,74 @@
+.contact {
+    padding: 100px 0;
+}
+
+.contact-title {
+    font-size: 48px;
+    font-weight: 800;
+    margin-bottom: 40px;
+    color: #FF00FF;
+    text-shadow: 0 0 20px rgba(255, 0, 255, 0.5);
+    text-align: center;
+}
+
+.contact-form-wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.contact-form {
+    background-color: rgba(255, 0, 255, 0.1);
+    padding: 40px;
+    border-radius: 20px;
+    border: 1px solid rgba(255, 0, 255, 0.2);
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-label {
+    display: block;
+    color: #FFFFFF;
+    margin-bottom: 8px;
+    font-weight: 500;
+}
+
+.form-input {
+    width: 100%;
+    padding: 12px;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 0, 255, 0.2);
+    color: #FFFFFF;
+    transition: all 0.3s ease;
+}
+
+.form-input:focus {
+    outline: none;
+    border-color: #00FFFF;
+    box-shadow: 0 0 15px rgba(0, 255, 255, 0.3);
+}
+
+.form-textarea {
+    height: 120px;
+    resize: vertical;
+}
+
+.submit-btn {
+    background-color: #FF00FF;
+    color: #FFFFFF;
+    padding: 12px 24px;
+    border-radius: 30px;
+    font-weight: 700;
+    transition: all 0.3s ease;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.submit-btn:hover {
+    background-color: #00FFFF;
+    transform: translateY(-2px);
+    box-shadow: 0 0 30px rgba(0, 255, 255, 0.4);
+}
