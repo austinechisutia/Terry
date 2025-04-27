@@ -6,8 +6,8 @@
     font-size: 48px;
     font-weight: 800;
     margin-bottom: 40px;
-    color: #FF00FF;
-    text-shadow: 0 0 20px rgba(255, 0, 255, 0.5);
+    color: #f7f5f7;
+    text-shadow: 0 0 20px rgba(238, 231, 238, 0.5);
     text-align: center;
 }
 
@@ -17,10 +17,10 @@
 }
 
 .contact-form {
-    background-color: rgba(255, 0, 255, 0.1);
+    background-color: rgba(236, 232, 236, 0.1);
     padding: 40px;
     border-radius: 20px;
-    border: 1px solid rgba(255, 0, 255, 0.2);
+    border: 1px solid rgba(252, 250, 252, 0.2);
 }
 
 .form-group {
@@ -39,7 +39,7 @@
     padding: 12px;
     border-radius: 8px;
     background-color: rgba(255, 255, 255, 0.1);
-    border: 1px solid rgba(255, 0, 255, 0.2);
+    border: 1px solid rgba(241, 241, 241, 0.2);
     color: #FFFFFF;
     transition: all 0.3s ease;
 }
@@ -56,8 +56,8 @@
 }
 
 .submit-btn {
-    background-color: #FF00FF;
-    color: #FFFFFF;
+    background-color: #fdf8fd;
+    color: #050505;
     padding: 12px 24px;
     border-radius: 30px;
     font-weight: 700;

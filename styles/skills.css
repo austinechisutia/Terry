@@ -6,8 +6,8 @@
     font-size: 48px;
     font-weight: 800;
     margin-bottom: 40px;
-    color: #FF00FF;
-    text-shadow: 0 0 20px rgba(255, 0, 255, 0.5);
+    color: #f1eff1;
+    text-shadow: 0 0 20px rgba(250, 248, 250, 0.5);
     text-align: center;
 }
 
@@ -22,7 +22,7 @@
     border-radius: 15px;
     padding: 30px;
     text-align: center;
-    border: 1px solid rgba(255, 0, 255, 0.2);
+    border: 1px solid rgba(255, 252, 255, 0.2);
     transition: all 0.3s ease;
 }
 

@@ -23,7 +23,7 @@
 
 .particle-type-1 {
     background: radial-gradient(circle at center, rgba(255, 0, 255, 1) 0%, rgba(255, 0, 255, 0) 70%);
-    box-shadow: 0 0 15px rgba(255, 0, 255, 0.8);
+    box-shadow: 0 0 15px rgba(241, 240, 241, 0.8);
 }
 
 .particle-type-2 {
