@@ -1,12 +1,3 @@
-import heroImage1 from '../assets/drum.png';
-import heroImage2 from '../assets/hero-image-2.png';
-
-const heroImages = [
-    { id: 1, src: heroImage1, alt: 'Hero Image 1' },
-    { id: 2, src: heroImage2, alt: 'Hero Image 2' }
-  ];
-  
-
 function Hero() {
     try {
         return (
@@ -15,10 +6,10 @@ function Hero() {
                 <div className="container relative z-10">
                     <div className="flex justify-between items-center">
                         <div className="w-1/2" data-name="hero-content">
-                            <div className="text-sm mb-4" data-name="hero-label">DRUMMER</div>
-                            <h1 className="hero-title" data-name="hero-title">TERRYSON KAMAU</h1>
+                            <div className="text-sm mb-4" data-name="hero-label">Artist</div>
+                            <h1 className="hero-title" data-name="hero-title">TERRY KAMAU</h1>
                             <p className="hero-subtitle" data-name="hero-description">
-                                Creating playful and imaginative illustrations that bring stories to life and add color to everyday moments
+                            I'm a drummer and live streamer who brings the energy of live music straight to your screen. With every beat and every stream, I aim to create real-time experiences that are raw, powerful, and unforgettable. Whether it's live sessions, jam nights, or interactive streams, it’s all about sharing the rhythm and connecting with people through music.
                             </p>
                             <button className="learn-more-btn" data-name="learn-more-button">
                                 LEARN MORE
@@ -29,7 +20,7 @@ function Hero() {
                         </div>
                         <div className="w-1/2 hero-image-container" data-name="hero-image-container">
                             <img 
-                                src={heroImage1}
+                                src="images/hero.png" 
                                 alt="Hero" 
                                 className="hero-image" 
                                 data-name="hero-image"

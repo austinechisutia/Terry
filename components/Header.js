@@ -9,7 +9,7 @@ function Header() {
                                 <svg className="w-6 h-6 mr-2" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                                     <path d="M17.3,3.3L15.9,4.7L19.3,8.1L20.7,6.7L17.3,3.3M12,9.2L8.6,5.8L7.2,7.2L10.6,10.6L12,9.2M11,18.1V20H13V18.1L12,17.5L11,18.1M21,18.8V20H23V18.8L22,18.4L21,18.8M3,20H5V18.8L4,18.4L3,18.8V20M15,20H17V18.8L16,18.4L15,18.8V20M7,20H9V18.8L8,18.4L7,18.8V20M19,20H21V18.8L20,18.4L19,18.8V20M11,13.8V15.7L12,16.3L13,15.7V13.8L12,13.2L11,13.8M3.5,13.9L5,15.4L6.5,13.9L5,12.4L3.5,13.9M16.5,13.9L18,15.4L19.5,13.9L18,12.4L16.5,13.9M9.9,13.9L11.4,15.4L12.9,13.9L11.4,12.4L9.9,13.9" />
                                 </svg>
-                                TERRY
+                                Terry
                             </a>
                         </div>
                         <nav className="flex items-center" data-name="navigation">

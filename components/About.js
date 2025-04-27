@@ -7,7 +7,7 @@ function About() {
                     <div className="about-content" data-name="about-content">
                         <div data-name="about-image-container">
                             <img 
-                                src="https://app.trickle.so/storage/public/images/usr_0907d21e50000001/4ec7668e-29f0-46d3-9732-aa2e85eeaed6.png" 
+                                src="images/about.png" 
                                 alt="About" 
                                 className="about-image"
                                 data-name="about-image"
